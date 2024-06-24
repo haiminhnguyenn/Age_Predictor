@@ -46,4 +46,3 @@ Total params: 12,938,561 (49.36 MB)
 - Cài đặt các thư viện cần thiết
 - Chạy file predict.ipynb
 - Ấn phím q để thoát, p để dự đoán
-
